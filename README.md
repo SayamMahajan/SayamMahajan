@@ -3,16 +3,16 @@ Hi 👋, I'm Sayam Mahajan
 
 A passionate fullstack web developer.
 
-- 🌱 I’m currently learning **[React and Cpp]**
-- 💬 Ask me about **[Wed development and DSA]**
-- 📫 How to reach me: **[mahajansayam3@gmail.com]**
-- 😄 Pronouns: **[he/him]**
+- 🌱 I’m currently learning **React and Cpp**
+- 💬 Ask me about **Wed development and DSA**
+- 📫 How to reach me: **mahajansayam3@gmail.com**
+- 😄 Pronouns: **he/him**
 
 
 Connect with me:
 ----------------
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sayammahajan8/]) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/SayamMahajan))
 
 Languages and Tools:
@@ -30,7 +30,15 @@ Languages and Tools:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+GitHub Stats:
+-------------
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SayamMahajan&show_icons=true&hide_border=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SayamMahajan&layout=compact&hide_border=true&theme=radical)
+
+Streak Stats:
+-------------
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SayamMahajan&hide_border=true&theme=radical)
 
