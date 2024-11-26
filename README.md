@@ -3,7 +3,7 @@ Hi 👋, I'm Sayam Mahajan
 
 A passionate fullstack web developer.
 
-- 🌱 MERN Stack developer**
+- 🌱 MERN Stack developer
 - 💬 Ask me about **Wed development and DSA**
 - 📫 How to reach me: **mahajansayam3@gmail.com**
 - 😄 Pronouns: **he/him**
