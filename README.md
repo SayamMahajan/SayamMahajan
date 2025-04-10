@@ -9,5 +9,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayammahajan8/)  
 
 ---
-
-*Thanks for visiting my profile! Let's connect and create amazing tech solutions together.* 🌟  
