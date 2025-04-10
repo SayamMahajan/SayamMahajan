@@ -10,7 +10,4 @@
 
 ---
 
-### 📊 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SayamMahajan&layout=compact&hide_border=true&theme=radical)  
-
 *Thanks for visiting my profile! Let's connect and create amazing tech solutions together.* 🌟  
